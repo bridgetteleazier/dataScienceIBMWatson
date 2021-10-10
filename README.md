@@ -1,2 +1,2 @@
 # dataScienceIBMWatson
-DataSciencePortfolia
+DataSciencePortfolio
